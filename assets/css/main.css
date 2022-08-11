@@ -173,7 +173,7 @@ html {
 
 body {
   background: #d4d9dd url("images/bg03.jpg");
-  color: #474f51;
+  color: #272e31;
   font-size: 13.5pt;
   font-family: "Roboto";
   line-height: 1.85em;
@@ -1669,7 +1669,7 @@ section:last-child,
 /* Features */
 
 #features {
-  background: #353d40 url("images/bg02.jpg");
+  background: #353d40 url("images/MoRiverSunset.jpeg");
   border-bottom: solid 1px #272e31;
   padding: 45px 0 45px 0;
   text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
